@@ -21,4 +21,4 @@ Para el almacenamiento de información se utilizó MongoDB.
 
 Además, se puede subir imágenes para los usuarios y productos, lo cual se hizo de dos formas:
 - Guardando las imágenes en un directorio local de la aplicación.
-- Guardando las imágenes en Cloudinary, esto debido a que ciertos servicios hosting como Herouku, eliminan los archivos que no corresponden al directorio del repositorio, por esto se optó por implementar otro servicio que almacene las imágenes en un servidor externo.
+- Guardando las imágenes en Cloudinary, esto debido a que ciertos servicios hosting como Heroku, eliminan los archivos que no corresponden al directorio del repositorio, por esto se optó por implementar otro servicio que almacene las imágenes en un servidor externo.
